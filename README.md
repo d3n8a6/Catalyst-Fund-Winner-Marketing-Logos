@@ -31,16 +31,16 @@ Selected recurring categories also have their own logos:
 ![Adaptation of the cardano catalyst logo as a cup with wreath.](/Logo/png/Logo - Cross Chain.png)
 
 These logos are also incorporated into tiles, providing more detail on the fund and category (if applicable).
-![Adaptation of the cardano catalyst logo as a cup with wreath.](/Tile/Generic/png/Colour Tile - Fund 9.png)
-![Adaptation of the cardano catalyst logo as a cup with wreath.](/Tile/Generic/png/Monochrome Tile - Fund 8.png)
-![Adaptation of the cardano catalyst logo as a cup with wreath.](/Tile/Specific/png/Colour Tile - Dao.png)
-![Adaptation of the cardano catalyst logo as a cup with wreath.](/Tile/Specific/png/Monochrome Tile - Dapps.png)
+![Generic colour tile for fund 9.](/Tile/Generic/png/Colour Tile - Fund 9.png)
+![Generic monochrome tile for fund 8.](/Tile/Generic/png/Monochrome Tile - Fund 8.png)
+![Specific colour tile for fund 9 DAOs love Cardano.](/Tile/Specific/png/Colour Tile - Dao.png)
+![Specific monochrome tile for fund 9 dapps, products, integrations.](/Tile/Specific/png/Monochrome Tile - Dapps.png)
 
 
 ## I want a tile for a different fund/category combination
 If you cannot find an appropriate pre-made tile, the components have been made
 publicly available so that you can construct your own via [Figma](https://www.figma.com/).
 
-First, copy the [Component Document](https://www.figma.com/file/6Of6FLBEZUnzeLHRp0Unrx/Fund-Winner-Marketing-Logos?node-id=101%3A13044&t=KIk2nsZEDh3cr0hs-1)
+First, copy the [Component Document](https://www.figma.com/community/file/1199446016155538673)
 to your own account. You can then follow the included instructions to generate your own assets.
 
