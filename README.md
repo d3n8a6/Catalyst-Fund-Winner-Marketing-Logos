@@ -29,20 +29,20 @@ Selected recurring categories also have their own logos:
 - Grow East Asia
 - The great Migration
 
-<img style="background: white" src="./Logo/png/Logo - Cross Chain.png" width="100px" height="100px" title="Adaptation of the cardano catalyst logo as a cup with wreath and puzzle pieces.">
-<img style="background: white" src="./Logo/png/Logo - Dao.png" width="100px" height="100px" title="Adaptation of the cardano catalyst logo as a cup with wreath and decentralised graph.">
-<img style="background: white" src="./Logo/png/Logo - Dapps.png" width="100px" height="100px" title="Adaptation of the cardano catalyst logo as a cup with wreath and devices.">
-<img style="background: white" src="./Logo/png/Logo - Dev Ecosystem.png" width="100px" height="100px" title="Adaptation of the cardano catalyst logo as a cup with wreath and ecosystem.">
-<img style="background: white" src="./Logo/png/Logo - Grow Africa.png" width="100px" height="100px" title="Adaptation of the cardano catalyst logo as a cup with wreath and africa silhouette.">
-<img style="background: white" src="./Logo/png/Logo - Grow Asia.png" width="100px" height="100px" title="Adaptation of the cardano catalyst logo as a cup with wreath and asia silhouette.">
+<img style="float: left; background: white" src="./Logo/png/Logo - Cross Chain.png" width="100px" height="100px" title="Adaptation of the cardano catalyst logo as a cup with wreath and puzzle pieces.">
+<img style="float: left; background: white" src="./Logo/png/Logo - Dao.png" width="100px" height="100px" title="Adaptation of the cardano catalyst logo as a cup with wreath and decentralised graph.">
+<img style="float: left; background: white" src="./Logo/png/Logo - Dapps.png" width="100px" height="100px" title="Adaptation of the cardano catalyst logo as a cup with wreath and devices.">
+<img style="float: left; background: white" src="./Logo/png/Logo - Dev Ecosystem.png" width="100px" height="100px" title="Adaptation of the cardano catalyst logo as a cup with wreath and ecosystem.">
+<img style="float: left; background: white" src="./Logo/png/Logo - Grow Africa.png" width="100px" height="100px" title="Adaptation of the cardano catalyst logo as a cup with wreath and africa silhouette.">
+<img style="float: left; background: white" src="./Logo/png/Logo - Grow Asia.png" width="100px" height="100px" title="Adaptation of the cardano catalyst logo as a cup with wreath and asia silhouette.">
 <img style="background: white" src="./Logo/png/Logo - Migration.png" width="100px" height="100px" title="Adaptation of the cardano catalyst logo as a cup with wreath and migrating bird.">
 
 These logos are also incorporated into tiles, providing more detail on the fund and category (if applicable).
 
-<img style="background: white" src="./Tile/Generic/png/Colour Tile - Fund 9.png" width="200px" height="200px" title="Generic colour tile for fund 9.">
+<img style="float: left; background: white" src="./Tile/Generic/png/Colour Tile - Fund 9.png" width="200px" height="200px" title="Generic colour tile for fund 9.">
 <img src="./Tile/Generic/png/Monochrome Tile - Fund 8.png" width="200px" height="200px" title="Generic monochrome tile for fund 8.">
 <br>
-<img style="background: white" src="./Tile/Specific/png/Colour Tile - Dao.png" width="200px" height="200px" title="Specific colour tile for fund 9 DAOs love Cardano.">
+<img style="float: left; background: white" src="./Tile/Specific/png/Colour Tile - Dao.png" width="200px" height="200px" title="Specific colour tile for fund 9 DAOs love Cardano.">
 <img src="./Tile/Specific/png/Monochrome Tile - Dapps.png" width="200px" height="200px" title="Specific monochrome tile for fund 9 dapps, products, integrations.">
 
 ## I want a tile for a different fund/category combination
